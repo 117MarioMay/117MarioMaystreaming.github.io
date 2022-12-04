@@ -88,7 +88,33 @@ p {
 figure .amazont {
     color: #162B3A
 }
-
+figure .hbot {
+    color: #8c3be8
+}
+figure .netflixt {
+    color: #330505
+}
+figure .disneyt {
+    color: #97c7e8
+}
+figure .start {
+    color: #5f2702
+}
+figure .applet {
+    color: #888686
+}
+figure .crunchyt {
+    color: #fad3a4
+}
+figure .vixt {
+    color: #f0c9b1
+}
+figure .clarot {
+    color: #4b0303
+}
+figure .paramountt {
+    color: #a9d0ec
+}
 
 
 figure:hover > .texto{
