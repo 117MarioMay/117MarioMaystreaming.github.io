@@ -99,13 +99,13 @@ figure:hover > .texto{
 
 
 
-@media (max-width:720px) {
+@media (max-width: 720px) {
     .estrenos {
     grid-template-columns: 1fr;
 }
 }
 
-@media (max-width:1022px) {
+@media (max-width: 1022px) {
     .estrenos {
     grid-template-columns: 2fr;
 }
